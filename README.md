@@ -45,6 +45,9 @@ Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+Children’s Privacy
+
+These Services do not address anyone under the age of 13.I do not knowingly collect personally identifiable information from children under 13.
 
 Changes to This Privacy Policy
 
