@@ -1,5 +1,5 @@
 # Privacy-Policy
- mohammad built the Subshift game as an Ad Supported game. This SERVICE is provided by mohammad at no cost and is intended for use as is.
+Mohammad built the Subshift game as an Ad Supported game. This SERVICE is provided by Mohammad at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -9,13 +9,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to IP address, Non-user related crash logs, User-associated performance data such as app launch time, A Device ID, Advertising data, Other user product interactions. The information that I request will be retained on your device and is not collected by me in any way.
 
 The game does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the game
 
-Google Play Services
+AdMob
 Unity
 Log Data
 
@@ -47,7 +47,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13.
 
 Changes to This Privacy Policy
 
@@ -55,4 +55,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [Subshift12@gmail.com].
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at Subshift12@gmail.com.
